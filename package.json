@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "src/newsletter.html",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
   }
